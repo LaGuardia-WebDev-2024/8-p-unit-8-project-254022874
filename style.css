@@ -1,5 +1,5 @@
 @font-face{
-  font-family: water;
+  font-family: Georgia, serif;
   src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
 }
 
@@ -8,7 +8,7 @@ body {
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
+  font-family: Georgia, serif;
 }
 
 h1{
@@ -16,7 +16,7 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://cdn.glitch.global/bcd5e9e4-b3f6-45f9-b7fd-bb946b62122b/a3ed8964-dfd5-4182-a4bf-ce36bfb4cef8.D4SJ5KSJBN5J5J7SOVLB4TUUHY.jpg?v=1738776450193");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
